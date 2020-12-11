@@ -1,0 +1,13 @@
+{
+  "name": "secvisogram",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "scripts"
+  ],
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
